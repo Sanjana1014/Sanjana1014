@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanjana1014
+- 👋 Hi, I’m Sanjana
 - 👀 I’m interested in developing the websites
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on LinkedIn for job opportunities
